@@ -12,9 +12,9 @@ I'm a software developer interested in building reliable and scalable applicatio
 
 ### 🧠 Tech Stack
 
-- **Languages:** C#, Go (Golang), JavaScript, TypeScript, Python
+- **Languages:** C#, Go (Golang), JavaScript, TypeScript
 - **Backend:** ASP.NET Core, Entity Framework Core, Gin, GORM, REST APIs
-- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Frontend:** React.js, Next.js,css, Tailwind CSS
 - **Databases:** PostgreSQL, SQL
 - **DevOps & Cloud:** Linux, Docker, Kubernetes, AWS, CI/CD
 - **Tools:** Git, GitHub, Postman, VS Code, Visual Studio
